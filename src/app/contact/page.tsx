@@ -2,7 +2,7 @@ import { Globe } from "@/components/globe-world";
 import Container from "@/components/layout/container";
 import Footer from "@/components/layout/footer";
 import Navbar from "@/components/layout/navbar";
-import Textarea from "@/components/ui/ text-area";
+import Textarea from "@/components/ui/text-area";
 import Button from "@/components/ui/button";
 import Input from "@/components/ui/input";
 import React from "react";
